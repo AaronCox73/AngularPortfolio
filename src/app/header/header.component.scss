@@ -1,0 +1,14 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+li {
+    color: green;
+    list-style-type: none;
+}
+
+li:hover{
+    opacity: .6;
+    font-size: 110%;
+}
+
+
+
